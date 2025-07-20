@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **.NET Core Web APIs with Angular**
 - 🌱 I’m learning **Azure DevOps & Cloud-native development**
-- 💬 Ask me about **.NET Core, Angular, PostgreSQL, or anything Full Stack**
+- 💬 Ask me about **.NET Core, Angular, Ms SQL, PostgreSQL, or anything Full Stack**
 - 💼 Open to freelance or full-time opportunities
 
 ---
